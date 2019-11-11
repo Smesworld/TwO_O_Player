@@ -3,7 +3,7 @@ Nouns:
   Track a players health
   Decrease helth when incorrect
 
-  Vars: health
+  Vars: health, name?
   Methods: get health, decrease health
 
 - Turn
